@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @laistdomiciano
 - 👀 I’m interested in Music, Sustainability, Learning to Code, Yoga, Travel
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on projects around sustainability
+- 📫 How to reach me laistdomiciano@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
