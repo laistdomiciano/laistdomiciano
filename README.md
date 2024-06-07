@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laistdomiciano
-- 👀 I’m interested in Music, Sustainability, Learning Code, Yoga, Travel
+- 👀 I’m interested in Music, Sustainability, Learning to Code, Yoga, Travel
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
