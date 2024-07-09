@@ -8,13 +8,13 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laistdomiciano" alt="laistdomiciano" /></a> </p>
 
-- 🔭 I’m currently working on [My Portifolio](https://github.com/laistdomiciano/portifolio)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/laistdomiciano/portfolio)
 
 - 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Python**
 
-- 👨‍💻 All of my projects are available at [https://laistdomiciano.github.io/portifolio/](https://laistdomiciano.github.io/portifolio/)
+- 👨‍💻 All of my projects are available at [My Portifolio](https://laistdomiciano.github.io/portfolio/)
 
 - 📫 How to reach me **laistdomiciano@gmail.com**
 
