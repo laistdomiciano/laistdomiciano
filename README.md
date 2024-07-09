@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @laistdomiciano
-- 👀 I’m interested in Music, Sustainability, Learning to Code, Yoga, Travel, Diving, Meditation, and more ...
-- 🌱 I’m currently learning Python and other backend technologies
+- 👀 I’m interested in Music, Sustainability, Building with Pythin, Yoga, Travel, Diving, Meditation, Dj-ing, and more
+- 🌱 I’m currently improving my Python skills and other backend technologies
 - 💞️ I’m looking to collaborate on projects around technology, sustainability, inclusion, and music
 - 📫 How to reach me laistdomiciano@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Vipassana 2023 in Sri Lanka, one of the hardest challanges of my life.
 
 My portifolio: https://laistdomiciano.github.io/portifolio/
 My LinkedIn: https://www.linkedin.com/in/lais-trevizan-domiciano/
