@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **laistdomiciano@gmail.com**
 
-- 👀 I’m interested in Music, Sustainability, Building with Pythin, Yoga, Travel, Diving, Meditation, Dj-ing, and more
+- 👀 I’m interested in Music, Sustainability, Building with Python, Yoga, Travel, Diving, Meditation, Dj-ing, and more
     
 - 🌱 I’m currently improving my Python skills and other backend technologies
   
