@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in Music, Sustainability, Building with Python, Yoga, Travel, Diving, Meditation, Dj-ing, and more
     
-- 🌱 I’m currently improving my Python skills and other backend technologies
+- 🌱 I’m currently improving my Python skills and other backend technologies. Additionally, I am working at [Employment Contract Generator](https://github.com/laistdomiciano/employment-contract-generator) application
   
 - 💞️ I’m looking to collaborate on projects around technology, sustainability, inclusion, and music
 
